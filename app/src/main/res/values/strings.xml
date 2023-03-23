@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Selfie</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="btn_continue">Continue</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="take_photo_desc">"We're now taking photos of you %1$s</string>
+    <string name="failed_to_login">Unknown error while logged in</string>
+    <string name="input_is_invalid">Your input is not valid</string>
+    <string name="empty_images">You dont have any photo now. Selfie now!!!</string>
+    <string name="do_you_want_logout">Do you want to logout?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="processing">Your photos are processing. Please wait!!!</string>
+</resources>
